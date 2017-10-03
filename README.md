@@ -1,2 +1,2 @@
-# 20172-Padroes
+# 20172 - Padrões de Projeto
 Códigos da disciplina de Padrões de Projeto
